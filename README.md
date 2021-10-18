@@ -1,4 +1,3 @@
-### Hi there 👋
+###Currently working on: ###
 
-Currently working on: UnityProjects 
-Several diffent stations with a different Unity application communicating with a API to get Content and Data and also to update.
+Project with several unity applications wich communicates with a API and some hardware IO's to switch and control LEDS.
