@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [ExpoControl](https://www.define-it.nl/expocontrol)
 
-- 🌱 I’m currently learning **Maui**
+- 🌱 I’m currently learning **ReactJS and Maui**
 
 - 💬 Ask me about **React, Unity**
 
@@ -15,6 +15,8 @@
 <p align="left">
 <a href="https://linkedin.com/in/sander-bloem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sander-bloem" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/5216935" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="5216935" height="30" width="40" /></a>
+<a href="https://fb.com/sanderbloem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sanderbloem" height="30" width="40" /></a>
+<a href="https://instagram.com/sanderbloem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sanderbloem" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
