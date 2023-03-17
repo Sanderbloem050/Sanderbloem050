@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on [ExpoControl](https://www.define-it.nl/expocontrol)
 
-- 🌱 I’m currently learning **ReactJS and Maui**
+- 🌱 I’m currently learning **SvelteKit and Maui**
 
-- 💬 Ask me about **React, Unity**
+- 💬 Ask me about **Svelte, Unity**
 
 - 📫 How to reach me **sanderbloem87@gmail.com**
 
