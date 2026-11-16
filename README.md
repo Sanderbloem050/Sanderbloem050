@@ -10,7 +10,7 @@ Vanuit Groningen bouw ik aan modulaire webapplicaties, interactieve platformen e
 - **LoominOS** – Een multi-tenant besturingssysteem en contentplatform voor musea en expositieruimtes om hardware-nodes, interactieve kiosken en media centraal aan te sturen.
 - **Stippr** – Een slimme Next.js micro-SaaS voor efficiënte planning, tijdslot-beheer en agenda-integraties.
 - **Northlabs** – Mijn eigen studio voor maatwerk software, webdesign en lichtontwerp/uitvoering in de culturele sector.
-- **addlive** – Werkvoorbereider en lichttechnicus voor uiteenlopende live-producties en evenementen.
+- **WareHouseViewer** – Werkvoorbereider en lichttechnicus voor uiteenlopende live-producties en evenementen.
 
 ---
 
