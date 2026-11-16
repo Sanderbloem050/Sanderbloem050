@@ -1,111 +1,49 @@
-<h1 align="center">Hey, I'm Sander Bloem 👋</h1>
-<h3 align="center">Frontend developer, maker, and technical creative from the Netherlands</h3>
+# Hi, ik ben Sander Bloem 👋
 
-<p align="center">
-I build digital experiences, practical tools, and creative technical projects — from frontend apps and game ideas to workflow tooling and real-world production setups.
-</p>
+**Full-Stack Developer & Lichttechnicus** | Bruggenbouwer tussen code en fysieke hardware.
 
----
-
-## About me
-
-- 💻 Frontend-focused developer with a soft spot for clean UI and practical tools
-- 🌱 Currently learning **Laravel** and **Vue**
-- 🎮 I enjoy working with **React**, **Unity**, and interactive ideas
-- 🎭 I also have a background in **light design and operating**, which heavily influences how I think about systems, flow, and user experience
-- 🛠️ I like building things that are not just nice to look at, but actually useful
+Vanuit Groningen bouw ik aan modulaire webapplicaties, interactieve platformen en strakke lichtshows. Of het nu gaat om het architectureren van een multi-tenant SaaS-platform of het netwerken van een festival-rig via sACN en grandMA3: ik hou van systemen die naadloos samenwerken.
 
 ---
 
-## What I work on
-
-- Frontend projects and web apps
-- Creative developer tooling
-- Game and interactive concepts
-- Practical workflow systems
-- Technical side-projects that connect software with real-world use
+### 🚀 Waar ik aan werk
+- **LoominOS** – Een multi-tenant besturingssysteem en contentplatform voor musea en expositieruimtes om hardware-nodes, interactieve kiosken en media centraal aan te sturen.
+- **Stippr** – Een slimme Next.js micro-SaaS voor efficiënte planning, tijdslot-beheer en agenda-integraties.
+- **Northlabs** – Mijn eigen studio voor maatwerk software, webdesign en lichtontwerp/uitvoering in de culturele sector.
+- **addlive** – Werkvoorbereider en lichttechnicus voor uiteenlopende live-producties en evenementen.
 
 ---
 
-## Tech I use
+### 🛠️ Tech Stack & Tooling
 
-<p align="left">
-  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  </a>
-  <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a>
-  <a href="https://laravel.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/>
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  </a>
-  <a href="https://www.php.net" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
-  </a>
-  <a href="https://postman.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  </a>
-  <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/>
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-  </a>
-  <a href="https://unity.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/>
-  </a>
-  <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/>
-  </a>
-</p>
+**Web & Software Development**
+![Laravel](https://img.shields.io/badge/Laravel_12-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![Inertia.js](https://img.shields.io/badge/Inertia.js-9553E9?style=flat-square&logo=inertia&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
+
+**Infra & DevOps**
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Coolify](https://img.shields.io/badge/Coolify-6B46C1?style=flat-square&logo=linux&logoColor=white)
+![Tailscale](https://img.shields.io/badge/Tailscale-242424?style=flat-square&logo=tailscale&logoColor=white)
+
+**Entertainment Lighting & AV**
+`grandMA3` • `grandMA2` • `WYSIWYG` • `Dialux` • `sACN` • `Art-Net` • `RDM` • `ELC dmXLAN`
 
 ---
 
-## A few things that describe me
-
-- I like building things that feel clean, useful, and real
-- I enjoy the mix of creativity and technical structure
-- I’m just as interested in workflow and usability as in code itself
-- My background in live production taught me to think in systems, timing, pressure, and problem-solving
+### ⚡ Over mij
+- 🚐 Woon en werk full-time vanuit **Zenith**, mijn zelf omgebouwde en off-grid geüpgradede camper.
+- 🎮 Bouw in mijn vrije tijd graag aan custom Minecraft Fabric mods (zoals *SMP Essentials*) of speel een potje schaak of *Clank!*.
+- 🔧 Altijd op zoek naar manieren om handmatig werk te automatiseren en de kloof tussen IT en AV/lichttechniek te dichten.
 
 ---
 
-## Find me here
-
-- GitHub: [github.com/Sanderbloem050](https://github.com/Sanderbloem050)
-- Email: **sanderbloem87@gmail.com**
-- Twitter/X: [@sanderbloem](https://twitter.com/sanderbloem)
-- LinkedIn: [linkedin.com/in/sanderbloem](https://linkedin.com/in/sanderbloem)
-- Instagram: [@sanderbloem](https://instagram.com/sanderbloem)
-
----
-
-## Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sanderbloem050&show_icons=true&locale=en&layout=compact" alt="sanderbloem050" />
-</p>
+### 📫 Contact
+- 🌐 Website: [northlabs.nl](https://northlabs.nl) *(pas aan indien nodig)*
+- 💼 LinkedIn: [Sander Bloem](https://linkedin.com) *(voeg je eigen link toe)*
